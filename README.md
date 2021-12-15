@@ -1,5 +1,5 @@
 # My_profil 📄
-My name is _Thomas Pellissier_, I live in Switzerland and I am passionate about computers of all kinds, mainly programming. I am currently learning computer science. 
+My name is _Thomas Pellissier_ / _**MyMeepSQL**_, I live in Switzerland and I am passionate about computers of all kinds, mainly programming. I am currently learning computer science. 
 
 # Known languages 💻
 - **Python**
