@@ -10,7 +10,7 @@ My name is _Thomas Pellissier_ / _**MyMeepSQL**_, I'm 16 year old, I live in Swi
 # $_Objectif📋
 - HES in _Computer Science_, **Programming** and **Cybersecurity**,
 - Wants to create a business in the slopes area, called _**Delta_Society**_.
-- 
+
 # $_Contact me📨
 - If you want to talk to me, you can contact me by :
   - E-mail at: **thomas.pellissier@outlook.com**,
