@@ -13,5 +13,5 @@
 
 # $_Contact me📨
 > - If you want to talk to me, you can contact me by :
-  > > - E-mail at: **thomas.pellissier@outlook.com**,
-  > > - Discord with my nickname: **$_MyMeepSQL#0141**.
+>   - E-mail at: **thomas.pellissier@outlook.com**,
+>   - Discord with my nickname: **$_MyMeepSQL#0141**.
