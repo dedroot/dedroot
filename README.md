@@ -1,5 +1,5 @@
 # 📄・My_profil
-Hello World! My name is _Thomas Pellissier_ alias _**MyMeepSQL**_, I'm 16 year old, I live in Switzerland and I am passionate about computers of all kinds, mainly programming and cybersecurity. I am currently learning computer science for 4 years.
+Hello World! My name is _Thomas Pellissier_ alias _**MyMeepSQL**_ or _**th300905**_ (also my codename), I'm 16 year old, I live in Switzerland and I am passionate about computers of all kinds, mainly programming and cybersecurity. I am currently learning computer science for 4 years.
 
 # 💻・Known_languages
 - **Python3**
