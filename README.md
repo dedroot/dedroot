@@ -6,7 +6,7 @@ Hello world! My name is _Thomas Pellissier_ aka _**MyMeepSQL**_ or _**th300905**
 - **Python3**
 - **Bash**
 - **SQL**
-- **Some knowledges in Javascript**
+- Some knowledges in **Javascript**
 
 # 📋・Objectives
 - HES ("Haute École Spécialisé" in french / University of Applied Sciences in English) **Networking**, **Programming** and **Cybersecurity**,
