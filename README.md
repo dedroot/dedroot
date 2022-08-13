@@ -1,15 +1,15 @@
 # 📄・My_profil
-Hello World! My name is _Thomas Pellissier_ alias _**MyMeepSQL**_ or _**th300905**_ (also my codename), I'm 16 year old, I live in Switzerland and I am passionate about computers of all kinds, mainly programming and cybersecurity. I am currently learning computer science for 4 years.
+
+Hello world! My name is _Thomas Pellissier_ aka _**MyMeepSQL**_ or _**th300905**_ (also my code name), I'm 16 years old, I'm a Geometry Dash player, I live in Switzerland and I'm passionate about all kinds of computer science, mainly programming and cybersecurity. I'm currently doing a 4 years apprenticeship in computer science.
 
 # 💻・Known_languages
 - **Python3**
 - **Bash**
 - **SQL**
-- **Javascript**
-- Some knowledge in **Batch**
+- **Some knowledges in Javascript**
 
-# 📋・Objectifs
-- HES in **Computer Science**, **Programming** and **Cybersecurity**,
+# 📋・Objectives
+- HES ("Haute École Spécialisé" in french / University of Applied Sciences in English) **Networking**, **Programming** and **Cybersecurity**,
 - Wants to create a business in the field of pentesting, called _**PSociety**_ (for PentestSociety).
 
 # 📨・Contact_me
