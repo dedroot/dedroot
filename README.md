@@ -7,11 +7,10 @@ Hello world! My name is _Thomas Pellissier_ aka _**MyMeepSQL**_, I'm 17 years ol
 - **SQL**
 
 # Objectives
-- HES ("Haute École Spécialisé" in french / University of Applied Sciences in e7
-nglish) **Networking**, **Programming** and **Cybersecurity**,
+- HES ("Haute École Spécialisé" in french / University of Applied Sciences in English) **Networking**, **Programming** and **Cybersecurity**,
 - Wants to create a business in the field of pentesting, called _**PSociety**_ (for PentestSociety).
 
 # Contacts
-- If you want to talk to me or report issues about the projets, you can contact me by :
+- If you want to talk to me or report issues about one of my projets, you can contact me by:
   - E-mail at: **thomas.pellissier@outlook.com**,
   - Discord with my nickname: **MyMeepSQL#0141**.
