@@ -7,26 +7,23 @@ cc = Card Color
 tc = Text Color
 ic = Icon Color
 bc = Border Color
--->
-
 
 ![states](https://github-stats-alpha.vercel.app/api?username=MyMeepSQL&cc=0D4128&tc=86FFC2&ic=FFFFFF&bc=FFFFFF)
+-->
 
-
-
+## General stats
 ![MyMeepSQL's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyMeepSQL&show_icons=true&include_all_commits=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyMeepSQL)](https://github.com/anuraghazra/github-readme-stats)
+## Languages stats
+![MyMeepSQL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyMeepSQL&theme=dark)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=MyMeepSQL&repo=github-readme-stats&title_color=86FFC2&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D4128)
- 
- 
- 
- 
- 
+## Code time stats
+![MyMeepSQL's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mymeepsql&theme=dark)
+
 # Currently working on:
-- ConvPro Framework (for Linux)
-- OmegaPSToolkit (for Linux)
+- [AOVPNS](https://github.com/MyMeepSQL/AOVPNS) (for Linux, mainly Raspberry PI)
+- [ConvPro Framework](https://github.com/MyMeepSQL/convpro-framework) (for Linux)
+- [OmegaPSToolkit](https://github.com/MyMeepSQL/OmegaPSToolkit) (for Linux)
 
 # Known languages
 - Python3
