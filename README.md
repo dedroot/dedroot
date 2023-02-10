@@ -23,7 +23,7 @@ bc = Border Color
 ![MyMeepSQL's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mymeepsql&theme=dark)
 
 # Currently working on:
-- [AOVPNS](https://github.com/MyMeepSQL/AOVPNS) (for Linux, mainly Raspberry PI)
+- [AOVPNS](https://github.com/MyMeepSQL/AOVPNS) (for Linux)
 - [ConvPro Framework](https://github.com/MyMeepSQL/convpro-framework) (for Linux)
 - [OmegaPSToolkit](https://github.com/MyMeepSQL/OmegaPSToolkit) (for Linux)
 
@@ -40,4 +40,3 @@ bc = Border Color
 - If you want to talk to me or report issues about one of my projets, you can contact me by:
   - Email at: **thomas.pellissier@outlook.com**
   - Discord with my nickname: **MyMeepSQL#0141**
-
