@@ -18,7 +18,7 @@ bc = Border Color
 ![MyMeepSQL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyMeepSQL&theme=dark)
 
 ## Code time stats
-[![wakatime](https://wakatime.com/badge/user/244c440e-6ae6-441a-b1f9-1edf189e3f74.svg)](https://wakatime.com/@244c440e-6ae6-441a-b1f9-1edf189e3f74?style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/244c440e-6ae6-441a-b1f9-1edf189e3f74.svg?style=for-the-badge)](https://wakatime.com/@244c440e-6ae6-441a-b1f9-1edf189e3f74)
 
 ![MyMeepSQL's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mymeepsql&theme=dark)
 
