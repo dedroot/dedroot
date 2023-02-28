@@ -38,5 +38,5 @@ bc = Border Color
 
 # Contacts
 - If you want to talk to me or report issues about one of my projets, you can contact me by:
-  - Email at: **thomas.pellissier@outlook.com**
+  - Email at: **thomas.pellissier.pro@proton.me**
   - Discord with my nickname: **MyMeepSQL#0141**
