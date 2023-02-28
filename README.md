@@ -33,7 +33,7 @@ bc = Border Color
 - SQL
 
 # Objectives
-- HES ("Haute École Spécialisé" in french / "University of Applied Sciences" in English) in **Networking**, **Programming** and **Cybersecurity**,
+- HES ("Haute École Spécialisé" in french / "University of Applied Sciences" in english) in **Networking**, **Programming** and **Cybersecurity**,
 - Create a company offering Pentesting services.
 
 # Contacts
