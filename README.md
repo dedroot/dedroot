@@ -29,8 +29,10 @@ bc = Border Color
 
 # Currently working on:
 
+- [GitPy](https://github.com/MyMeepSQL/GitPy) (for Linux)
 - [AOVPNS](https://github.com/MyMeepSQL/AOVPNS) (for Linux)
-- [ConvPro Framework](https://github.com/MyMeepSQL/convpro-framework) (for Linux)
+- [ConvPro Framework](https://github.com/MyMeepSQL/ConvPro-Framework) (for Linux)
+- [PSToolkit](https://github.com/MyMeepSQL/PSToolkit) (for Linux)
 - [OmegaPSToolkit](https://github.com/MyMeepSQL/OmegaPSToolkit) (for Linux)
 
 # Known languages
