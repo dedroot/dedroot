@@ -70,8 +70,6 @@ bc = Border Color
 
 If you want to talk to me or report issues about one of my projects, you can contact me by:
 
-[![Email](https://img.shields.io/badge/Email-3776AB?style=for-the-badge&logo=protonmail&logoColor=white)](thomas.pellissier.pro@proton.me)
+[![Email](https://img.shields.io/badge/Email-3776AB?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thomas.pellissier.pro@proton.me)
 [![Twitter](https://img.shields.io/badge/Twitter-3776AB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MyMeepSQL)
-<a href="javascript:void(navigator.clipboard.writeText('MyMeepSQL#0141'))">
-  <img src="https://img.shields.io/badge/Discord-3776AB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
+[![Discord](https://img.shields.io/badge/Discord-3776AB?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/344873776099491863)
