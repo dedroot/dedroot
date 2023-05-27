@@ -72,6 +72,17 @@ If you want to talk to me or report issues about one of my projects, you can con
 
 [![Email](https://img.shields.io/badge/Email-3776AB?style=for-the-badge&logo=protonmail&logoColor=white)](thomas.pellissier.pro@proton.me)
 [![Twitter](https://img.shields.io/badge/Twitter-3776AB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MyMeepSQL)
-<a href="javascript:void(navigator.clipboard.writeText('MyMeepSQL#0141'))">
+<a href="#" onclick="copyToClipboard('MyMeepSQL#0141')"> 
   <img src="https://img.shields.io/badge/Discord-3776AB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
+
+<script>
+function copyToClipboard(text) {
+  var input = document.createElement('input');
+  input.setAttribute('value', text);
+  document.body.appendChild(input);
+  input.select();
+  document.execCommand('copy');
+  document.body.removeChild(input);
+}
+</script>
