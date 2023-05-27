@@ -19,13 +19,13 @@ bc = Border Color
 
 ## Languages stats
 
-![MyMeepSQL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyMeepSQL&theme=dark)
+![MyMeepSQL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyMeepSQL&theme=dark)
 
 ## Code time stats
 
-[![wakatime](https://wakatime.com/badge/user/244c440e-6ae6-441a-b1f9-1edf189e3f74.svg?style=for-the-badge)](https://wakatime.com/@244c440e-6ae6-441a-b1f9-1edf189e3f74)
+[![MyMeepSQL's all Wakatime](https://wakatime.com/badge/user/244c440e-6ae6-441a-b1f9-1edf189e3f74.svg?style=for-the-badge)](https://wakatime.com/@244c440e-6ae6-441a-b1f9-1edf189e3f74)
 
-![MyMeepSQL's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mymeepsql&theme=dark)
+![MyMeepSQL's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mymeepsql&theme=dark)
 
 # Currently working on:
 
@@ -37,9 +37,9 @@ bc = Border Color
 
 # Known languages
 
-![Contributors](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Contributors](https://img.shields.io/badge/Shell_Script-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Contributors](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Shell Scripting](https://img.shields.io/badge/Shell_Script-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql)](https://www.iso.org/standard/63555.html)
 
 # Known tools
 
