@@ -15,19 +15,13 @@ bc = Border Color
 
 ## General stats
 
----
-
 ![MyMeepSQL's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyMeepSQL&show_icons=true&include_all_commits=true&theme=dark)
 
 ## Languages stats
 
----
-
 ![MyMeepSQL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyMeepSQL&theme=dark)
 
 ## Code time stats
-
----
 
 [![wakatime](https://wakatime.com/badge/user/244c440e-6ae6-441a-b1f9-1edf189e3f74.svg?style=for-the-badge)](https://wakatime.com/@244c440e-6ae6-441a-b1f9-1edf189e3f74)
 
