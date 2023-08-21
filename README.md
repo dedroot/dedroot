@@ -1,10 +1,6 @@
 # My profile
 
-<<<<<<< HEAD
-Hello world! I'm delighted to share a few details about myself. I'm Thomas Pellissier, also known as MyMeepSQL. I'm 17 years old and I like playing Geometry Dash. I love photography and live in Switzerland. But what I'm most passionate about is the world of computing. I'm fascinated by systems administration, programming and cybersecurity. I'm currently doing a 4-year apprenticeship in IT to further my knowledge.
-=======
 Hello world! I'm delighted to share a few details about myself. I'm Thomas Pellissier, also known as dedroot. I'm 17 years old and I like photography, gaming and live in Switzerland. But what I'm most passionate about is the world of computing. I'm fascinated by systems management, programming and cybersecurity. I'm currently doing a 4-year apprenticeship in IT to further my knowledge.
->>>>>>> develop
 
 ## My stats
 
@@ -33,18 +29,10 @@ bc = Border Color
 
 ## Currently working on:
 
-<<<<<<< HEAD
-- [GitPy](https://github.com/MyMeepSQL/gitpy) (for Linux)
-- [AVPNS](https://github.com/MyMeepSQL/avpns) (for Linux)
-- [ConvPro Framework](https://github.com/MyMeepSQL/ConvPro-Framework) (for Linux)
-- [PSToolkit](https://github.com/MyMeepSQL/PSToolkit) (for Linux) (On a GitLab self-hosted instance)
-- [OmegaPSToolkit](https://github.com/MyMeepSQL/OmegaPSToolkit) (for Linux)
-=======
 - [GitPy](https://github.com/dedroot/gitpy) (for Linux) (main project)
 - [AVPNS](https://github.com/dedroot/avpns) (for Linux) (paused)
 - [ConvPro Framework](https://github.com/dedroot/convpro-framework) (for Linux) (paused)
 - [OmegaPSToolkit](https://github.com/dedroot/omegapstoolkit) (for Linux) (paused)
->>>>>>> develop
 
 ## Known languages
 
