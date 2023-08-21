@@ -53,6 +53,7 @@ bc = Border Color
 [![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white)](https://www.iso.org/standard/63555.html)
 
 ### Learning
+
 [![GoLang](https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=go&logoColor=white)](https://www.python.org/)
 
 ## Known tools
