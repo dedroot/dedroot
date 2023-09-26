@@ -25,43 +25,40 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dedroot&theme=dark&layout=compact&hide=AUTO_DETECTED" />
 </div>
 
-<div align="center">
+<div style="text-align: center;">
   <h2>Currently working on</h3>
- 
-  <div style="text-align: center;">  
-    <ul style="text-align: left; display: inline-block; padding-left: 0;">
-      <li>
-        <a href="https://github.com/dedroot/gitpy">
-        GitPy
-        </a>
-        (for Linux) (main project)
-      </li>
-      <li>
-        <a href="https://github.com/dedroot/mcsutils">
-        MCSUtils
-        </a>
-        (for Linux) (next project after GitPy v1.0.0)
-      </li>
-      <li>
-        <a href="https://github.com/dedroot/avpns">
-        AVPNS
-        </a>
-        (for Linux) (paused)
-      </li>
-      <li>
-        <a href="https://github.com/dedroot/convpro-framework">
-        ConvPro Framework
-        </a>
-        (for Linux) (paused)
-      </li>
-      <li>
-        <a href="https://github.com/dedroot/convpro-framework">
-        OmegaPSToolkit
-        </a>
-        (for Linux) (paused)
-      </li>
-    </ul>
-  </div>
+  <ul style="text-align: left; display: inline-block;">
+    <li>
+      <a href="https://github.com/dedroot/gitpy">
+      GitPy
+      </a>
+      (for Linux) (main project)
+    </li>
+    <li>
+      <a href="https://github.com/dedroot/mcsutils">
+      MCSUtils
+      </a>
+      (for Linux) (next project after GitPy v1.0.0)
+    </li>
+    <li>
+      <a href="https://github.com/dedroot/avpns">
+      AVPNS
+      </a>
+      (for Linux) (paused)
+    </li>
+    <li>
+      <a href="https://github.com/dedroot/convpro-framework">
+      ConvPro Framework
+      </a>
+      (for Linux) (paused)
+    </li>
+    <li>
+      <a href="https://github.com/dedroot/convpro-framework">
+      OmegaPSToolkit
+      </a>
+      (for Linux) (paused)
+    </li>
+  </ul>
 </div>
 
 <div align="center">
@@ -110,16 +107,13 @@
   </a>
 </div>
 
-<div align="center">
+<div style="text-align: center;">
   <h2>Objectives</h3>
-
-  <div style="text-align: center;">
-    <ul style="text-align: left; display: inline-block; padding-left: 0;">
-      <li>
-        HES ("Haute École Spécialisé" in french / "University of Applied Sciences" in english) in <b>Computer Science</b>.
-      </li>
-    </ul>
-  </div>
+  <ul style="text-align: left; display: inline-block; padding-left: 0;">
+    <li>
+      HES ("Haute École Spécialisé" in french / "University of Applied Sciences" in english) in <b>Computer Science</b>.
+    </li>
+  </ul>
 </div>
 
 <div align="center">
