@@ -20,7 +20,8 @@
   <a href="https://wakatime.com/@244c440e-6ae6-441a-b1f9-1edf189e3f74">
     <img src="https://wakatime.com/badge/user/244c440e-6ae6-441a-b1f9-1edf189e3f74.svg?style=for-the-badge" />
   </a>
-
+  
+  \
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dedroot&theme=dark&layout=compact&hide=AUTO_DETECTED" />
 </div>
 
