@@ -16,7 +16,7 @@ Hello world! I'm delighted to share a few details about myself. I'm Thomas Pelli
 
 [![dedroot's all Wakatime](https://wakatime.com/badge/user/244c440e-6ae6-441a-b1f9-1edf189e3f74.svg?style=for-the-badge)](https://wakatime.com/@244c440e-6ae6-441a-b1f9-1edf189e3f74)
 
-[![dedroot's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dedroot&theme=dark&layout=compact&hide=AUTO_DETECTED)]
+[![dedroot's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dedroot&theme=dark&layout=compact&hide=AUTO_DETECTED)](https://wakatime.com/@244c440e-6ae6-441a-b1f9-1edf189e3f74)
 
 ## Currently working on
 
