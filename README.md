@@ -1,6 +1,6 @@
 # My profile
 
-Hello world! I'm delighted to share a few details about myself. I'm Thomas Pellissier, also known as dedroot. I'm 17 years old and I like photography, gaming and live in Switzerland. But what I'm most passionate about is the world of computing. I'm fascinated by systems management, programming and cybersecurity. I'm currently doing a 4-year apprenticeship in IT to further my knowledge.
+Hello world! I'm delighted to share a few details about myself. I'm Thomas Pellissier, also known as dedroot. I'm 18 years old and I like photography, gaming and live in Switzerland. But what I'm most passionate about is the world of computing. I'm fascinated by systems management, programming and cybersecurity. I'm currently doing a 4-year apprenticeship in IT to further my knowledge.
 
 ## My stats
 
