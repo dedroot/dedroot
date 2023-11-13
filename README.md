@@ -6,11 +6,11 @@ Hello world! I'm delighted to share a few details about myself. I'm Thomas Pelli
 
 ### Most used languages on GitHub
 
-![dedroot's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedroot&theme=dark)
+![dedroot's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedroot&theme=dark)
 
 ### General stats
 
-![dedroot's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedroot&show_icons=true&include_all_commits=true&theme=dark)
+![dedroot's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedroot\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=dark)
 
 ### Wakatime coding time stats
 
@@ -21,7 +21,7 @@ Hello world! I'm delighted to share a few details about myself. I'm Thomas Pelli
 ## Currently working on
 
 - [GitPy](https://github.com/dedroot/gitpy) (for Linux) (main project)
-- [MCSUtils](https://github.com/dedroot/mcsutils) (for Linux) (next project after GitPy v1.0.0)
+- [MCSUtils](https://github.com/dedroot/mcsutils) (for Linux) (next project after GitPy v.1.0.0.0)
 - [AVPNS](https://github.com/dedroot/avpns) (for Linux) (paused)
 - [ConvPro Framework](https://github.com/dedroot/convpro-framework) (for Linux) (paused)
 - [OmegaPSToolkit](https://github.com/dedroot/omegapstoolkit) (for Linux) (paused)
