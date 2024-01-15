@@ -21,7 +21,7 @@ Hello world! I'm delighted to share a few details about myself. I'm Thomas Pelli
 ## Currently working on
 
 - [GitPy](https://github.com/dedroot/gitpy) (for Linux) (main project)
-- [MCSUtils](https://github.com/dedroot/mcsutils) (for Linux) (next project after GitPy v.1.0.0.0)
+- [MCSUtils](https://github.com/dedroot/mcsutils) (for Linux) (next project after GitPy v.1.0.0)
 - [AVPNS](https://github.com/dedroot/avpns) (for Linux) (paused)
 - [ConvPro Framework](https://github.com/dedroot/convpro-framework) (for Linux) (paused)
 - [OmegaPSToolkit](https://github.com/dedroot/omegapstoolkit) (for Linux) (paused)
