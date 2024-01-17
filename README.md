@@ -33,11 +33,16 @@ Hello world! I'm delighted to share a few details about myself. I'm Thomas Pelli
 
 ### Learning
 
-[![GoLang](https://img.shields.io/badge/Go-3776AB?style=for-the-badge&logo=go&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+
+## Known OS
+
+[![ArchLinux](https://img.shields.io/badge/Arch_Linux-3776AB?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![Windows](https://img.shields.io/badge/Windows%2010-3776AB?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows10ISO)
 
 ## Known tools
 
-[![Linux](https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white)](https://kernel.org)
+[![Linux](https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/torvalds/linux)
 [![Git](https://img.shields.io/badge/Git-3776AB?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-3776AB?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
 [![GitHub](https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
@@ -54,5 +59,8 @@ Hello world! I'm delighted to share a few details about myself. I'm Thomas Pelli
 If you want to talk to me or report issues about one of my projects, you can contact me by:
 
 [![Email](https://img.shields.io/badge/Email-3776AB?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thomas.pellissier.pro@proton.me)
-[![Twitter](https://img.shields.io/badge/Twitter-3776AB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dedroot)
+[![Twitter](https://img.shields.io/badge/Twitter-3776AB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dedr00t)
 [![Discord](https://img.shields.io/badge/Discord-3776AB?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/344873776099491863)
+
+> [!NOTE]  
+> For email encryption/authenticity, you can get my public OpenPGP key [here](https://keys.openpgp.org/search?q=thomas.pellissier.pro%40proton.me).
